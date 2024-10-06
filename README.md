@@ -55,6 +55,3 @@ Conducted a thorough sales data analysis project utilizing SQL and Excel to clea
 
 Thanks! 😊
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ma7modraslan&show_icons=true&locale=en&layout=compact" alt="ma7modraslan" /></p>  
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ma7modraslan&show_icons=true&locale=en" alt="ma7modraslan" /></p>
