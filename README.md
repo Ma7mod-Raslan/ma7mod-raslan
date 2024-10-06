@@ -1,31 +1,60 @@
+![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)  
+<h1 align="center">Hi 👋, I'm Mahmoud</h1>  
+<h3 align="center">Data Analyst | Coding Instructor | Python Enthusiast</h3>  
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />  
 
-<h3 align="center">
-  Welcome to Mahmoud Raslan's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<p align="left">  
+  <img src="https://komarev.com/ghpvc/?username=ma7modraslan&label=Profile%20views&color=0e75b6&style=flat" alt="ma7modraslan" />  
+</p>  
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Undergrad%20Software%20Engineer;Don't%20Stop%20learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+---
 
-- 🏢 I'm a Computer Science Student.
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- ⚡ Fact: Once you stop learning, you start dying.
+### 👨‍💻 About Me:  
+- 📋 *Resume: Check out my Resume [here*](https://drive.google.com/drive/folders/1-994Dap49aQBsqs2INlGfRD9r2bSn6Sx)  
+- 💬 *Ask me about*: Data Analysis, Python Programming, Data Visualization 
+- 📫 *Reach me at*: [mahmoud.yousef.raslan@gmail.com](mailto:mahmoud.yousef.raslan@gmail.com)  
+- 📊 *Data Analysis Projects: Explore my work on [Portfolio*](https://mahmoudraslan.my.canva.site/)  
 
+---
 
-### Connect with Me :
+<h3 align="left">🌐 Connect with me:</h3>  
+<p align="left">  
+  <a href="https://www.linkedin.com/in/ma7mod-raslan/" target="_blank">  
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Mahmoud Raslan" height="40" width="40" />  
+  </a>  
+  <a href="https://kaggle.com/ma7modraslan" target="_blank">  
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle - Mahmoud Raslan" height="40" width="40" />  
+  </a>  
+</p>  
 
-<a href="https://www.linkedin.com/in/ma7mod-raslan/" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Raslan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/ma7mod_raslan" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Raslan-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="https://www.facebook.com/ma7mod.raslan" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Raslan-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-### 🛠 &nbsp;Tech Skills
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![CPP](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=cpp)&nbsp;
+---
+
+## 💼 *Portfolio Projects*  
+
+### 📊 *Interactive Flight Delay Dashboard*
+*Description:*  
+Developed a comprehensive dashboard using Tableau to analyze flight delays across various airlines. The dashboard provides insights into average delays by month, the distribution of cancellations, and the impact of distance on total delays, enabling stakeholders to understand trends and improve operational efficiency.
+
+---
+
+### 📈 *Employee Attrition Analysis Dashboard*
+*Description:*  
+Created a detailed dashboard to visualize employee attrition metrics within an organization. Using Tableau, the project highlights key factors influencing attrition rates, including job satisfaction, work-life balance, and departmental analysis, aiding HR teams in developing retention strategies.
+
+---
+
+### 🧬 *Sales Performance Analysis Tool*
+*Description:*  
+Conducted a thorough sales data analysis project utilizing SQL and Excel to clean and visualize large datasets. The analysis focused on sales trends and performance optimization strategies, delivering actionable insights for improving sales operations and enhancing decision-making.
+
+[![View Portfolio](https://img.icons8.com/plasticine/100/000000/pdf.png)](https://mahmoudraslan.my.canva.site/)  
+*Click the icon above to view my full portfolio.*
+
+---
+
+Thanks! 😊
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ma7modraslan&show_icons=true&locale=en&layout=compact" alt="ma7modraslan" /></p>  
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ma7modraslan&show_icons=true&locale=en" alt="ma7modraslan" /></p>
