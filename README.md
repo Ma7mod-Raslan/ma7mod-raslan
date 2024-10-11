@@ -32,19 +32,19 @@
 
 ## 💼 *Portfolio Projects*  
 
-### 📊 *Interactive Flight Delay Dashboard*
+### 📊 [*Interactive Flight Delay Dashboard**](https://drive.google.com/drive/folders/1ZD-5cSt-WV7wn4bF_bx9qEn-Tmv8w8jB?usp=drive_link)
 *Description:*  
 Developed a comprehensive dashboard using Tableau to analyze flight delays across various airlines. The dashboard provides insights into average delays by month, the distribution of cancellations, and the impact of distance on total delays, enabling stakeholders to understand trends and improve operational efficiency.
 
 ---
 
-### 📈 *Employee Attrition Analysis Dashboard*
+### 📈 [*Employee Attrition Analysis Dashboard**](https://drive.google.com/drive/folders/18PgeWOfNEKbOfwFR8iIjwh-ogBGs6Nuy?usp=drive_link)
 *Description:*  
 Created a detailed dashboard to visualize employee attrition metrics within an organization. Using Tableau, the project highlights key factors influencing attrition rates, including job satisfaction, work-life balance, and departmental analysis, aiding HR teams in developing retention strategies.
 
 ---
 
-### 🧬 *Sales Performance Analysis Tool*
+### 🧬 [*Sales Performance Analysis Tool**](https://drive.google.com/drive/folders/1gMYdpk7Ry3OpVg8_ZvjGx9bsielLp87v?usp=drive_link)
 *Description:*  
 Conducted a thorough sales data analysis project utilizing SQL and Excel to clean and visualize large datasets. The analysis focused on sales trends and performance optimization strategies, delivering actionable insights for improving sales operations and enhancing decision-making.
 
